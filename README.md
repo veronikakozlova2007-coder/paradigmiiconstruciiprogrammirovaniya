@@ -1,0 +1,2 @@
+# paradigmiiconstruciiprogrammirovaniya
+Лабораторные работы
